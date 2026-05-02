@@ -4,6 +4,8 @@ Linktree: <https://linktr.ee/MartinEesmaa>
 
 YouTube: <https://www.youtube.com/channel/UC8uLpZMsXjU3G3etHj4rr1Q>
 
+Instagram: <https://instagram.com/martinhero12>
+
 Reddit: [u/MartinEesmaa](https://reddit.com/u/MartinEesmaa)
 
 Lemmy.world: [u/MartinEesmaa](https://lemmy.world/u/MartinEesmaa)
