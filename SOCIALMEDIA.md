@@ -1,31 +1,18 @@
 # Martin Eesmaa's social media links
 
-Linktree: <https://linktr.ee/MartinEesmaa>
+* Linktree: <https://linktr.ee/MartinEesmaa>
+* YouTube: <https://www.youtube.com/channel/UC8uLpZMsXjU3G3etHj4rr1Q>
+* Instagram: <https://instagram.com/martinhero12>
+* Reddit: [u/MartinEesmaa](https://reddit.com/u/MartinEesmaa)
+* Lemmy.world: [u/MartinEesmaa](https://lemmy.world/u/MartinEesmaa)
+* Pastebin: <https://pastebin.com/u/MartinEesmaa>
+* Github: [MartinEesmaa](https://github.com/MartinEesmaa)
+* Gitlab: [MartinEesmaa](https://gitlab.com/MartinEesmaa)
+* LinkedIn: <https://www.linkedin.com/in/martin*eesmaa*4b355587/>
+* Wikipedia: [MartinHero13](https://en.wikipedia.org/wiki/User:MartinHero13)
+* Imgur: [MartinHero13](https://imgur.com/user/MartinHero13)
+* Doom9 Forum: [MartinEesmaa](https://forum.doom9.org/member.php?u=248978)
+* Hydrogenaudio account (registered members to view my profile or search my username of Hydrogenaudio to see posts/replies in web search engine): [MartinEesmaa](https://hydrogenaud.io/index.php?action=profile;u=160252)
+* AlternativeTo: [MartinEesmaa](https://alternativeto.net/user/martineesmaa/)
 
-YouTube: <https://www.youtube.com/channel/UC8uLpZMsXjU3G3etHj4rr1Q>
-
-Instagram: <https://instagram.com/martinhero12>
-
-Reddit: [u/MartinEesmaa](https://reddit.com/u/MartinEesmaa)
-
-Lemmy.world: [u/MartinEesmaa](https://lemmy.world/u/MartinEesmaa)
-
-Pastebin: <https://pastebin.com/u/MartinEesmaa>
-
-Github: [MartinEesmaa](https://github.com/MartinEesmaa)
-
-Gitlab: [MartinEesmaa](https://gitlab.com/MartinEesmaa)
-
-LinkedIn: <https://www.linkedin.com/in/martin-eesmaa-4b355587/>
-
-Wikipedia: [MartinHero13](https://en.wikipedia.org/wiki/User:MartinHero13)
-
-Imgur: [MartinHero13](https://imgur.com/user/MartinHero13)
-
-Doom9 Forum: [MartinEesmaa](https://forum.doom9.org/member.php?u=248978)
-
-Hydrogenaudio account (registered members to view my profile or search my username of Hydrogenaudio to see posts/replies in web search engine): [MartinEesmaa](https://hydrogenaud.io/index.php?action=profile;u=160252)
-
-AlternativeTo: [MartinEesmaa](https://alternativeto.net/user/martineesmaa/)
-
-- Martin Eesmaa
+* Martin Eesmaa
